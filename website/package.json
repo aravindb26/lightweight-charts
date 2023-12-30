@@ -19,7 +19,7 @@
     "@tsconfig/docusaurus": "~1.0.6",
     "@types/react": "^17.0",
     "cross-env": "~7.0.3",
-    "docusaurus-plugin-typedoc": "0.18.0",
+    "docusaurus-plugin-typedoc": "0.21.0",
     "lightweight-charts": "~4.1.0",
     "lightweight-charts-local": "file:..",
     "lightweight-charts-3.8": "npm:lightweight-charts@~3.8.0",
